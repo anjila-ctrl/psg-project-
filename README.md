@@ -1,6 +1,7 @@
 # psg-project-
  C++ Pay Slip Generation System
- 1.Description of the Project
+
+1.Description of the Project
 The Pay Slip Generation System (PSG) is a C++-based, menu-driven payroll application designed to generate salary pay slips for permanent and contractual employees. It calculates gross and net salaries using allowances and tax deductions, stores employee information, and handles overtime dues.
 
  2.Key Features of the PSG
